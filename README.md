@@ -1,2 +1,2 @@
-# lab_1
+# lab_2
 nguyên lý ngôn ngữ lập trình
